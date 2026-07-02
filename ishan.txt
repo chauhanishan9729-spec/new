@@ -1,2 +1,3 @@
 hi i am learning git.
 next line
+new day
